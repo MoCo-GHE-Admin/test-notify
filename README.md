@@ -3,7 +3,8 @@
 - [x] have a mortal not on the team create PR #1
 
 # To Do
-- [ ] verify that mortal team maintainer gets notified of PR #1
+- [X] verify that mortal team maintainer gets notified of PR #1
+- [X] verify that mortal-on-team has write to the repo (hwine)
 - [ ] mortal-not-on-team makes a change to the PR #1
 - [ ] verify that mortal-team-maintainer gets notified of PR #1 change
   - if not notified, mortal-not-on-team makes PR #2
