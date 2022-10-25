@@ -19,3 +19,4 @@
 - [ ] mortal-team-maintainer verifies no notification received.
 
 I think that's it -- we may want to add a mortal-not-maintainer to the team (andy?) and then do another round of PR event generation for completeness
+- [ ] Test if Post adds to the team get PR issues.
